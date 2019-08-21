@@ -120,18 +120,9 @@ storage/tfrecords/cv_tfrecord/20fo0109_1.1429_017o030p_-1.1429.tfrecords
 * __Authors__: Dong Yu, Morten Kolbæk, Zheng-Hua Tan, Jesper Jensen
 * __Published__: [ICASSP 2017](https://ieeexplore.ieee.org/document/7952154/) (5-9 March 2017)
 * __Dataset__: [WSJ0 data](https://catalog.ldc.upenn.edu/ldc93s6a), [VCTK-Corpus](http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html)
-* __SDR/SAR/SIR__
-    * Toolbox: [BSS Eval](http://bass-db.gforge.inria.fr/bss_eval/), [The PEASS Toolkit](http://bass-db.gforge.inria.fr/peass/), [craffel/mir_eval/separation.py](https://github.com/craffel/mir_eval/blob/master/mir_eval/separation.py)
-    * Paper: [Performance measurement in blind audio source separation](https://ieeexplore.ieee.org/document/1643671/)
-* __STOI__
-    * Toolbox: [stoi.zip](http://insy.ewi.tudelft.nl/content/short-time-objective-intelligibility-measure)+[actuallyaswin/stoi](https://github.com/actuallyaswin/stoi), [mpariente/pystoi](https://github.com/mpariente/pystoi)
-    * Paper: [A short-time objective intelligibility measure for time-frequency weighted noisy speech](https://ieeexplore.ieee.org/document/5495701/)
-* __ESTOI__
-    * Toolbox: [estoi.m](http://kom.aau.dk/~jje/code/estoi.m)
-    * Paper: [An Algorithm for Predicting the Intelligibility of Speech Masked by Modulated Noise Maskers](https://ieeexplore.ieee.org/document/7539284/)
-* __PESQ__
-    * Toolbox: [pesq.m](https://github.com/JacobD10/SoundZone_Tools/blob/master/pesq2.m), [MATLAB software-composite](http://ecs.utdallas.edu/loizou/speech/software.htm)
-    * Paper: [Perceptual evaluation of speech quality (PESQ)-a new method for speech quality assessment of telephone networks and codecs](https://ieeexplore.ieee.org/document/941023/)
+
+* SDR/SAR/SIR-STOI/ESTOI-PESQ:
+    * My github: [Speech-measure-SDR-SAR-STOI-PESQ](https://github.com/dakenan1/Speech-measure-SDR-SAR-STOI-PESQ) 
 
 ## 7. Directions of Future Research
 * Scaling down DNNs without compromising performance.
